@@ -20,6 +20,6 @@
 @media(max-width: 450px) {
   .container section {
     grid-template-columns: 1fr;
-    margin-bottom: 25px;
+    margin-bottom: 50px;
   }
 }
