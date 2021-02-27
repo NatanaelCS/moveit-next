@@ -1,32 +1,117 @@
 [
   {
+    "type": "eye",
+    "description": "Coloque a mão direita sobre o olho direito, repousando os dedos sobre a testa e a palma sobre a têmpora. Não precisa pressionar. Mantenha a mão no mesmo local durante 30 segundos, piscando livremente ao longo desse período. Depois faça o mesmo com o olho esquerdo.",
+    "amount": 80
+  },
+  {
+    "type": "eye",
+    "description": "Uma massagem suave é muito relaxante para os olhos. Usando as pontas dos polegares, massageie a área abaixo do sobrancelhas – a partir da parte superior do nariz até a borda externa da pálpebra – em movimentos circulares.",
+    "amount": 70
+  },
+  {
     "type": "body",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "description": "Levantar e esticar as pernas, de forma alternada ou simultânea.",
+    "amount": 50
+  },
+  {
+    "type": "body",
+    "description": "Com a postura ereta, cruze os dedos acima da cabeça e estenda os braços com as palmas viradas para cima. Permaneça nesta posição por pelo menos 15 segundos. Em seguida, coloque o braço atrás da cabeça até a mão encostar no meio das costas e segure o cotovelo, puxando-o até o seu limite.",
     "amount": 80
   },
   {
     "type": "body",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "description": "Com a postura ereta, vire o queixo para um dos ombros, mantendo em rotação máxima. Repita a mesma operação para o outro lado. Em seguida, abaixe a cabeça até alongar os músculos da nuca e costas. Realize um movimento circulatório com a cabeça, para os dois lados, em velocidade lenta.",
+    "amount": 70
+  },
+  {
+    "type": "body",
+    "description": "Em pé, flexione o joelho direito para trás e segure-o com a mão direita, até que ele chegue ao bumbum. Mantenha a posição por 20 segundos e repita-o três vezes com cada perna. ",
+    "amount": 60
+  },
+  {
+    "type": "body",
+    "description": "Em pé, com o tronco alinhado, as pernas separadas e os pés alinhados com os ombros, incline o corpo para a frente, deixando os braços suspensos em direção ao chão. Mantenha a posição por 30 segundos e repita três vezes. Quando terminar, você sentirá um alívio enorme na coluna.",
+    "amount": 80
+  },
+  {
+    "type": "eye",
+    "description": "Encontre um local relaxante onde você possa sentar-se sem distrações. Coloque o polegar aproximadamente 25 cm à frente do rosto e coloque nele o foco de ambos os olhos. Mantenha o foco no polegar durante 7 segundos e depois observe outro objeto mais distante. Alterne o foco entre o polegar e o objeto durante 2 minutos.",
     "amount": 80
   },
   {
     "type": "body",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-    "amount": 80
+    "description": "Gire a cintura o máximo que puder para a esquerda, segure por cinco segundos. Em seguida, repita o movimento girando para a direita. Tente repetir o movimento cinco vezes de cada lado.",
+    "amount": 70
   },
   {
     "type": "body",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-    "amount": 80
+    "description": "Gire os tornozelos em ambas as direções (direita e esquerda) por cerca de cinco segundos. Tente fazer cinco séries de oito repetições em cada direção.",
+    "amount": 60
+  },
+  {
+    "type": "eye",
+    "description": "Imagine um grande número oito deitado na parede à sua frente. Use os olhos para desenhá-lo, sem movimentar a cabeça. Faça esse exercício por uns 2 minutos.",
+    "amount": 60
   },
   {
     "type": "body",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-    "amount": 80
+    "description": "Estique seu braço direito em direção ao lado esquerdo o máximo que puder. Apoie a mão esquerda na dobra do seu cotovelo esquerdo, ajudando a alongá-lo. Sinta o alongamento por cerca de cinco segundos e, depois, faça o mesmo movimento com o outro braço. Tente repetir cinco vezes de cada lado.",
+    "amount": 70
   },
   {
     "type": "body",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-    "amount": 80
+    "description": "Para movimentar as panturrilhas, tire os calcanhares do chão, ficando na ponta dos pés (sentada na cadeira). Segure nesta posição por dez segundos. Tente repetir o exercício oito vezes. Os músculos da panturrilha devem começar a queimar após alguns segundos.",
+    "amount": 50
+  },
+  {
+    "type": "body",
+    "description": "Mantendo a coluna reta, encostada na cadeira, flexione o pescoço para a lateral direita e, ao mesmo tempo, faça força com o ombro esquerdo para baixo. Mantenha a posição por 20 segundos. Depois, faça o movimento do outro lado.",
+    "amount": 40
+  },
+  {
+    "type": "body",
+    "description": "Coloque as mãos atrás da cabeça e leve os cotovelos lentamente para trás. Mantenha a posição por cerca de 20 segundos.",
+    "amount": 50
+  },
+  {
+    "type": "body",
+    "description": "Mexa cada um dos seus dedos com cuidado: estenda-os, flexione-os, abra-os e feche-os.",
+    "amount": 40
+  },
+  {
+    "type": "body",
+    "description": "Cruze a perna direita sobre a esquerda, puxando a coxa com a mão esquerda, e virando o tronco para o lado esquerdo. Mantenha a posição por 20 segundos e depois repita para o outro lado.",
+    "amount": 60
+  },
+  {
+    "type": "body",
+    "description": "Mantenha-se sentada na cadeira, com a coluna reta, e, com os ombros relaxados, olhe de um lado para o outro, lentamente.",
+    "amount": 40
+  },
+  {
+    "type": "body",
+    "description": "Mantenha-se sentada na cadeira, com a coluna reta, e, com os ombros relaxados, olhe para baixo e para cima.",
+    "amount": 40
+  },
+  {
+    "type": "body",
+    "description": "Com a ajuda da mão, traga o pescoço para o lado e segure por alguns segundos. Depois, repita para o lado contrário.",
+    "amount": 50
+  },
+  {
+    "type": "body",
+    "description": "Olhe para o chão e, segurando mais atrás da cabeça, tente encostar o queixo no peito, mais inclinado para o lado direito. Depois, repita para o outro lado.",
+    "amount": 50
+  },
+  {
+    "type": "body",
+    "description": "Com o braço direito atrás da cabeça e a mão esquerda apoiada no cotovelo direito, force a mão para descer o braço o máximo que puder. Depois, repita com o outro braço.",
+    "amount": 60
+  },
+  {
+    "type": "body",
+    "description": "Estique os braços acima da cabeça, entrelaçando os dedos e se mantenha nesta posição por alguns segundos.",
+    "amount": 60
   }
 ]
